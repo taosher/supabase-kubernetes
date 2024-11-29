@@ -6,7 +6,7 @@ For any information regarding Supabase itself you can refer to the [official doc
 
 ## One Click to deploy a Supabase on Alibaba Cloud
 
-[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/dapr.git&branch=master)
+[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/supabase-kubernetes.git&branch=main)
 
 Clicking this button will deploy a Supabase on Alibaba Cloud ACS, which is a serverless kubernetes. 
 
